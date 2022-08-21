@@ -8,11 +8,10 @@
 Screach37/Screach37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Positions of Responsibility: 
+##Positions of Responsibility: 
+Led a team of 6 for Smart India Hackathon - 2022 and got selected in the Prelims Round of SIH-2022.
 
-  Led a team of 6 for Smart India Hackathon - 2022 and got selected in the Prelims Round of SIH-2022.
-
-Professional Experience
+##Professional Experience
 
   •	1.4 + years of experience with RedHat Linux 7.x,8x, Debian 8.x and 9.x, CentOS 7.x and 8x, Oracle VM, VM-Ware, Ubuntu 18x,20x
   •	Experience in Designing, Installing and Implementing Ansible configuration management system and in writing playbooks for Ansible and deploying applications.
@@ -30,15 +29,15 @@ Professional Experience
   •	2+ years of experience in Video Editing and comfortable in using various video editing softwares like DaVinci Resolve, Filmora, Lightworks. 
   •	Logo Designer: Created 10+ logos which are registered trademark. Recent work includes designing logo for Mach Academy.
 
-Work Experience
+##Work Experience
 
-1.	FAPL India 
+#1.	FAPL India 
   Achievements/Tasks:
   •	Configured Custom Mail Server for FLPL India using Mail Enable
   •	Live project - mail.faplindia.co
   •	Manage IIS and configure DNS for webserver and mail server
 
-2.	Summer Internship – Infosys
+#2.	Summer Internship – Infosys
   08/2021 - 09/2021, Online
   Achievements/Tasks:
   •	Completed HTML5 course
@@ -46,7 +45,7 @@ Work Experience
 
 
 
-INTERESTS
+##INTERESTS
 
   •	Playing cricket
   •	Listening Music
