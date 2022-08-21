@@ -20,10 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sharmaakshat37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharmaakshat37" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sharmaakshat37/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharmaakshat37/" height="30" width="40" /></a>
-<a href="https://instagram.com/shamraakshat37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shamraakshat37" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aksar official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aksar official" height="30" width="40" /></a>
+<a href="https://twitter.com/sharmaakshat37" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharmaakshat37" height="30" width="40" /></a>
+  <a href="https://github.com/Screach37" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sharmaakshat37" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sharmaakshat37/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharmaakshat37/" height="30" width="40" /></a>
+<a href="https://instagram.com/shamraakshat37" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shamraakshat37" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC23Zflxv1K6Ouq-U7fPxSbg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aksar official" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -97,12 +98,10 @@ Led a team of 6 for Smart India Hackathon - 2022 and got selected in the Prelims
   •	Listening Music
   
   •	Writing songs 
-  
     I love to write and have my own YouTube channel where I upload my Rap songs
     Channel Name – Aksar Official
     
   •	E-Sports
-  
     I am into gaming and one such game where I can flex my gaming strengths is Valorant, a competitive 5v5 FPS game, where I’ve have played for various teams and have     my own team named pH Alpha.  
     I also have a gaming channel on YouTube as Screach Gaming.
   
