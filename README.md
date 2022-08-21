@@ -9,8 +9,6 @@
 Screach37/Screach37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Positions of Responsibility: 
-Led a team of 6 for Smart India Hackathon - 2022 and got selected in the Prelims Round of SIH-2022.
 
 ## Professional Experience
 
@@ -69,6 +67,8 @@ Led a team of 6 for Smart India Hackathon - 2022 and got selected in the Prelims
   •	Completed High Impact Communication Courses
   
 
+## Positions of Responsibility: 
+Led a team of 6 for Smart India Hackathon - 2022 and got selected in the Prelims Round of SIH-2022.
 
 
 ## INTERESTS
