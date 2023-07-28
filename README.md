@@ -69,11 +69,12 @@
 
   Achievements/Tasks:
   
-  •	Configured Custom Mail Server for FLPL India using Mail Enable
-  
-  •	Live project - mail.faplindia.co
-  
-  •	Manage IIS and configure DNS for webserver and mail server
+  • Configured Custom Mail Server for FAPL India with over 100 users which helped reducing the overall cost by 61.1%
+
+  • Migrated mails from Zoho Mail to the custom mail server
+
+  • Created using HMailServer on a Windows Server 2007
+
   
 
 # 2.	Summer Internship – Infosys
