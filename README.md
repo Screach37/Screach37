@@ -82,8 +82,10 @@
   
 
 ## Positions of Responsibility: 
-  • Led a team of 6 for Smart India Hackathon - 2022 and got selected in the Prelims Round of SIH-2022.
   • Coordinator of Tech-Innova Club, SKIT.
+  
+  • Led a team of 6 for Smart India Hackathon - 2022 and got selected in the Prelims Round of SIH-2022.
+  
   • Volunteered in a technical event ”Type-a-tack” in the College Fest, PRAVAH 2023.
 
 ## INTERESTS
