@@ -32,7 +32,7 @@
 
 ## Professional Experience
 
-  •	1.4 + years of experience with RedHat Linux 7.x,8x, Debian 8.x and 9.x, CentOS 7.x and 8x, Oracle VM, VM-Ware, Ubuntu 18x,20x
+  •	Good experience with RedHat Linux 7.x,8x, Debian 8.x and 9.x, CentOS 7.x and 8x, Oracle VM, VM-Ware, Ubuntu 18x,20x
   
   •	Experience in Designing, Installing and Implementing Ansible configuration management system and in writing playbooks for Ansible and deploying applications.
   
@@ -42,17 +42,10 @@
   
   •	Experience with container-based deployments using Docker, working with Docker images, Docker hub and Docker registries, and clustering them.
   
-  •	Working with Public Cloud Platform like AWS (Amazon Web Services) and good knowledge in using and managing various services like AWS EC2, VPC, CLI, S3, Create         bucket and object.
-  
-  •	Experience in optimizing volumes, EC2 instances, created multiple VPC instances, created alarms and notifications for EC2 instances using Cloud Watch. 
-  
-  •	Set up the scripts for creation of new snapshots and deletion of old snapshots in S3 using S3 CLI tools. 
+  •	Working with Public Cloud Platform like AWS (Amazon Web Services) and good knowledge in using and managing various services like AWS EC2, VPC, CLI, S3, Create bucket and object.
+ 
   
   •	Worked with Amazon IAM console to create custom users and groups.
-  
-  •	Experience on working with various OS like Linux (Red hat, Ubuntu, CentOS), UNIX, Windows.
-  
-  •	Knowledge of TCP/IP, UDP, IPv4, IPv6, Sub netting.
   
   •	Experience in administration and maintenance of application service like DNS, HTTP, Apache, DHCP, SMTP, NFS, FTP and Samba servers.
   
@@ -89,12 +82,13 @@
   
 
 ## Positions of Responsibility: 
-Led a team of 6 for Smart India Hackathon - 2022 and got selected in the Prelims Round of SIH-2022.
-
+  • Led a team of 6 for Smart India Hackathon - 2022 and got selected in the Prelims Round of SIH-2022.
+  • Coordinator of Tech-Innova Club, SKIT.
+  • Volunteered in a technical event ”Type-a-tack” in the College Fest, PRAVAH 2023.
 
 ## INTERESTS
 
-  •	Playing cricket
+  •	Playing Cricket and Badminton
   
   •	Listening Music
   
@@ -103,7 +97,7 @@ Led a team of 6 for Smart India Hackathon - 2022 and got selected in the Prelims
     Channel Name – Aksar Official
     
   •	E-Sports
-    I am into gaming and one such game where I can flex my gaming strengths is Valorant, a competitive 5v5 FPS game, where I’ve have played for various teams and have     my own team named pH Alpha.  
+    I am into gaming and one such game where I can flex my gaming strengths is Valorant, a competitive 5v5 FPS game, where I’ve have played for various teams and have my own team named pH Alpha.  
     I also have a gaming channel on YouTube as Screach Gaming.
   
   
