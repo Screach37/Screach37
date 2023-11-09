@@ -14,6 +14,8 @@
 
 - 👨‍💻 All of my projects are available at [https://screach37.github.io/Portfolio](https://screach37.github.io/Portfolio)
 
+- 👨‍💻 Read my blogs at [Hashnode](https://devtodevops.hashnode.dev)
+
 - 💬 Ask me about **AWS, Docker, Front-End**
 
 - 📫 How to reach me **workakshat22@gmail.com**
