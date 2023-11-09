@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **React, Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://screach37.github.io/Portfolio](https://screach37.github.io/Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://screach37.github.io/Portfolio)
 
-- 👨‍💻 Read my blogs at [Hashnode](https://devtodevops.hashnode.dev)
+- 👨‍💻 Read my blogs at [DevToDevOps](https://devtodevops.hashnode.dev)
 
 - 💬 Ask me about **AWS, Docker, Front-End**
 
